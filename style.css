@@ -1,0 +1,17 @@
+ summa{
+        background-color: red;
+        color: white;
+    }
+    h1{
+        background-color: red;
+        color: white;
+    }
+    button{
+        background-color: purple;
+        color: white;
+        margin: 100px;
+        /* width: 50px; */
+        padding: 8px 10px;
+        border: none;
+        border-radius: 10px;
+    }
