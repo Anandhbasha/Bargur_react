@@ -1,0 +1,34 @@
+.Navbar{  
+    display: flex;
+    justify-content: center;  
+    background-color: rgb(0 57 219);
+    width: 100%;    
+}
+.Links{
+    display: flex;
+    width: 90%;
+    height: 10vh;
+    justify-content: space-between;
+    align-items: center;
+}
+a{
+    color: white;
+    font-weight: 900;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.23em;
+}
+#root{
+    width: 100%;
+}
+.App{
+    width: 100%;
+}
+
+.Mens,.Womens,.Allproducts{
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 20px;
+    flex-wrap: wrap;
+}

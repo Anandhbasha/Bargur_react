@@ -25,7 +25,6 @@ const App = () => {
       {cardDetails.map((item)=>(
         <Card {...item}/>
       ))}
-      <Card plan="Preminum" mp = "649" ></Card>
     </div>
   )
 }
